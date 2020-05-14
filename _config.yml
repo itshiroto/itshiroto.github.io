@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Rivo Wowor
+bio: also known as Hiroto Junichirou
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A simple blog by Rivo, made in Jekyll.
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://itshiroto.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,26 +31,26 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+twitter: itshiroto7
+instagram: itshiroto7
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: rivowowor
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: rivomcid
+github: itshiroto
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: rivowowor7@gmail.com
 
 authors:
   johndoe:
