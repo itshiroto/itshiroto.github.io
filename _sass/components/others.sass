@@ -42,6 +42,25 @@
         min-width: 114%
         margin: 2rem 0 2rem -7%
 
+.fullwidth-image
+    object-fit: cover
+    height: 850px
+    min-width: 100vw
+    position: relative
+    left: 50%
+    right: 50%
+    margin-left: -50vw
+    margin-right: -50vw
+    border-radius: 0
+
+    @media #{$tablet}
+        height: 500px
+        
+    @media #{$mobile}
+        height: 350px
+
+
+    
 .breaker
     height: 1px
     margin: 6rem auto

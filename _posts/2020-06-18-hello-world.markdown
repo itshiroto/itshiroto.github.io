@@ -11,7 +11,7 @@ category: blog
 author: rivo
 description: My first* ever blog post with Jekyll
 ---
-![alt text](https://images.unsplash.com/photo-1582056615449-5dcb2332b3b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "credit: Unsplash"){: class="bigger-image" }
+![alt text](https://images.unsplash.com/photo-1582056615449-5dcb2332b3b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80 "credit: Unsplash"){: class="fullwidth-image" }
 
 # Hello.
 Welcome to my first* ever blog post on Jekyll.
