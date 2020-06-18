@@ -16,6 +16,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+encoding: utf-8
+
 url: https://itshiroto.github.io
 # your url: https://USERNAME.github.io
 
@@ -53,12 +55,12 @@ github: itshiroto
 email: rivowowor7@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  rivo:
+    name: Rivo Wowor
+    bio: A bored musician and computer enthusiast.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: itshiroto
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -78,7 +80,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
