@@ -20,7 +20,7 @@ Bulan Maret, Indonesia mengumumkan dua pasien positif coronanya. Hari-hari berla
 
 Kementerian Pendidikan dan Kebudayaan Indonesia banyak melakukan perubahan dan penyesuaian mengenai Tahun Ajaran Baru 2020 dengan konsep New Normal. Salah satunya adalah **KBM Daring**. Banyak sekolah di Indonesia mulai mempelajari aplikasi-aplikasi LMS serta video conferencing untuk menyiapkan diri pada KBM Daring nanti.
 
-Akhir Juli 2020, waktu dimana esai ini dituliskan. Bagaimanakah *experience-nya* dalam menjalankan KBM Daring ini? Inilah pengalaman saya tentang KBM Daring ini.
+Dan pada akhirnya; Juli 2020, waktu dimana esai ini dituliskan. Bagaimanakah *experience-nya* dalam menjalankan KBM Daring ini?
 
 ---
 
