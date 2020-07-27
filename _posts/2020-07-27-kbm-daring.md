@@ -51,7 +51,7 @@ Masalah paling utama dan yang paling sulit diatasi dalam pelaksanaan KBM Daring 
 
 *Seandainya dunia ini sempurna, ya*. But Jokes aside, sebenarnya sudah ada alokasi Dana BOS yang ditujukan kepada **siswa-siswa yang tidak mampu membeli kuota internet**; Lihat yang  saya tekankan tadi? Hanya untuk siswa yang tidak mampu yang mendapat bantuan. Biasanya guru serta ketua kelas yang memilih siapa saja yang mendapat bantuan tersebut. Jika *semua* pelajar mendapat kuota gratis ataupun kompensasi dari Telkom dan ISP lainnya, saya yakin kuota tersebut tidak akan dipakai sesuai dengan tujuannya. 
 
-> *"Tapi kan kuotanya bisa di-*limit* pada aplikasi tertentu"*
+> *"Tapi kan kuotanya bisa di-limit *pada aplikasi tertentu"*
 
 Memang bisa, tapi banyak sekolah serta guru di Indonesia menggunakan aplikasi yang bervariasi dalam kegiatan pembelajarannya. Contohnya seperti kelas saya yang menggunakan Google Classroom, Schoology, serta aplikasi *non-education* yang dipakai dalam kegiatan pembelajaran seperti WhatsApp dan Discord. Sehingga sulit untuk menentukan aplikasi apa saja yang dapat dimasukkan dalam paket kuota edukasi ini.
 
