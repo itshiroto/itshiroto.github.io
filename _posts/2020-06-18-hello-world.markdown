@@ -18,16 +18,16 @@ Welcome to my first* ever blog post on Jekyll.
 
 Kenapa ada tanda bintang di sebelah kata _first_? Karena saya dari dulu sudah pernah membuat blog maupun website (So many that I even forgot most of them), dan semuanya hanya berisikan satu post saja.
 
-Oleh karena itu di tahun 2020 yang penuh dengan _kejutan_ ini, saya mencoba untuk melakukan kembali blogging meskipun dengan cara yang agak unik. Karena biasanya saya (dan rekan-rekan saya) menggunakan Wordpress dan/atau Blogger untuk membuat blog, sekarang saya mencoba menggunakan salah satu _"teknologi web yang sedang populer di kalangan developer sekarang ini"_ yaitu **Static Web Generator**, lebih spesifiknya, Jekyll.
+Oleh karena itu di tahun 2020 yang penuh dengan _kejutan_ ini, saya mencoba untuk melakukan kembali blogging meskipun dengan cara yang agak unik. Karena biasanya saya (dan rekan-rekan saya) menggunakan WordPress dan/atau Blogger untuk membuat blog, sekarang saya mencoba menggunakan salah satu _"teknologi web yang sedang populer di kalangan developer sekarang ini"_ yaitu **Static Web Generator**, lebih spesifiknya, Jekyll.
 
 
-## Jekyll dan Github
+## Jekyll dan GitHub
 ![alt text](https://miro.medium.com/max/900/1*Y5iApFEyOza8oqTjVGDoaQ.png "Jekyll dan Github")
-<figcaption class="caption">Jekyll dan Github</figcaption>
-Di era modern ini hampir semua blog menggunakan layanan baik Wordpress maupun Blogger. Tapi saya agak _enggan_ untuk memakai layanan tersebut. Ada dua hal yang membuat saya mencoba Jekyll. Yang pertama adalah hosting, memang Wordpress dan lainnya mempunyai layanan gratisannya agar bisa dipakai selamanya. Tapi saya pengen kebebasan dalam _mengoprek_, mengedit, dan merubah blog saya sesuka hati saya. Sementara kebanyakan layanan gratis tersebut tidak memberikan kebebasan yang sepenuhnya terhadap blog yang kita punya. 
+<figcaption class="caption">Jekyll dan GitHub</figcaption>
+Di era modern ini hampir semua blog menggunakan layanan baik WordPress maupun Blogger. Tapi saya agak _enggan_ untuk memakai layanan tersebut. Ada dua hal yang membuat saya mencoba Jekyll. Yang pertama adalah hosting, memang WordPress dan lainnya mempunyai layanan gratisannya agar bisa dipakai selamanya. Tapi saya pengen kebebasan dalam _mengoprek_, mengedit, dan mengubah blog saya sesuka hati saya. Sementara kebanyakan layanan gratis tersebut tidak memberikan kebebasan yang sepenuhnya terhadap blog yang kita punya. 
 
-Yang kedua adalah _Experimental_. Bisa dibilang saya adalah seseorang yang suka mencoba hal-hal yang baru dan jarang mengikuti sesuatu yang rada mainstream. Benefit lainnya adalah saya juga bisa belajar menggunakan GitHub. Hal ini terbukti berguna ketika saya belajar programming kedepannya.
+Yang kedua adalah _Experimental_. Bisa dibilang saya adalah seseorang yang suka mencoba hal-hal yang baru dan jarang mengikuti sesuatu yang rada mainstream. Benefit lainnya adalah saya juga bisa belajar menggunakan GitHub. Hal ini terbukti berguna ketika saya belajar programming ke depannya.
 
 ------
 
-Banyak hal yang akan saya tuliskan disini kedepannya. Mungkin akan ditulis disini atau tidak, tetapi yang penting saya akan rajin-rajin update blog ini untuk menceritakan hal-hal menarik atau proyek-proyek yang saya kerjakan selama ini. Sekian.
+Banyak hal yang akan saya tuliskan disini ke depannya. Mungkin akan ditulis disini atau tidak, tetapi yang penting saya akan rajin-rajin update blog ini untuk menceritakan hal-hal menarik atau proyek-proyek yang saya kerjakan selama ini. Sekian.
