@@ -1,7 +1,7 @@
 ---
 title: "KBM Daring, dari perspektif seorang pelajar"
 layout: post
-date: 2020-06-27 10:23
+date: 2020-07-27 10:23
 image: 
 headerImage: false
 tag:
